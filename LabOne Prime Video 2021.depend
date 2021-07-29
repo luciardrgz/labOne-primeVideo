@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1624244504 source:c:\users\lucas\desktop\facu\1º\programacion i\tp final\labone prime video 2021\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1624573365 source:d:\documents\facultad\1er año\programación 1\trabajos prácticos\tp final\labone prime video 2021\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1624364843 source:c:\users\lurdr\desktop\labone 1.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1624420557 source:c:\users\lucas\desktop\facu\1º\programacion i\tp final\versión 1.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1624459486 source:c:\users\lucas\desktop\facu\1º\programacion i\tp final\versión 1.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1624496946 source:c:\users\lucas\desktop\facu\1º\programacion i\tp final\versión 1.6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1624545908 source:c:\users\lurdr\desktop\versión 1.7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1624591080 source:c:\users\lurdr\desktop\versión 1.9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1624623562 source:c:\users\lucas\desktop\facu\1º\programacion i\tp final\versión 2.0 (final)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1624805575 source:c:\users\lurdr\desktop\utn\prog. y laboratorio\recursos labone\versión 2.1 (final)\versión 2.1 (final)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
